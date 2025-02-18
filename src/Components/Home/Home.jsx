@@ -12,7 +12,7 @@ const Home = () => {
          An aspiring data scientist specializing in Python, SQL, machine learning, and AWS. My goal is to harness the power of data to drive impactful business solutions. With a proven track record of delivering technology-driven projects, I am eager to bring my analytical skills and strategic insights to solve real-world challenges.
         </p>
         <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
-          <a href="src/assets/Harsh Tiwari ATS Resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
+        <a href="/assets/Harsh Tiwari ATS Resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
         </button>
       </div>
       <div>
