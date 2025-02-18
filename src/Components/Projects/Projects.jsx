@@ -10,7 +10,7 @@ const Projects = () => {
       <div className="py-12 px-8 flex flex-wrap gap-5">
         <ProjectCard
           title="SoberShot"
-          main="This is a project of Beverage Reccomendation System created using Machine Learning Frameworks and deployed on Render. This system uses Past user experience to reccommend drinks based on users prefrence."
+          main="This is a project of Beverage Recommendation System created using Machine Learning Frameworks and deployed on Render. This system uses Past user experience to reccommend drinks based on users prefrence."
           imgSrc={drink}
           sourceLink="https://github.com/HarshTiwari1710/Sobershot"
         />
