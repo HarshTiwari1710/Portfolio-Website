@@ -22,11 +22,11 @@ const Footer = () => {
         </li>
         <li className="flex gap-1 items-center">
           <CiLinkedin />
-          <a href="https://www.linkedin.com/in/harsht1711/">harsht1711</a>
+          <a href="https://www.linkedin.com/in/harsht1711/" target="_blank">harsht1711</a>
         </li>
-        <li className="flex gap-1 items-center">
+        <li className="flex gap-1 items-center"> 
           <FaGithub />
-          <a href="https://github.com/HarshTiwari1710">HarshTiwari1710</a>
+          <a href="https://github.com/HarshTiwari1710" target="_blank">HarshTiwari1710</a>
         </li>
       </ul>
     </div>
